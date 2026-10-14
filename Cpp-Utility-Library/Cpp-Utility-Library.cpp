@@ -2,6 +2,7 @@
 #include "clsString.h"
 #include "clsDate.h"
 #include "clsUtil.h"
+#include "clsInputValidate.h"
 
 using namespace std;
 
