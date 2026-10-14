@@ -128,4 +128,4 @@ Possible future improvements include:
 
 ## License
 
-A license will be added in a separate project update.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the software subject to the terms of the license.
