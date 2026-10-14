@@ -3,6 +3,7 @@
 #include "clsDate.h"
 #include "clsUtil.h"
 #include "clsInputValidate.h"
+#include "clsPeriod.h"
 
 using namespace std;
 
