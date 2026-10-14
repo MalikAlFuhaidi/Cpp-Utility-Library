@@ -1,6 +1,7 @@
 #include <iostream>
 #include "clsString.h"
 #include "clsDate.h"
+#include "clsUtil.h"
 
 using namespace std;
 
